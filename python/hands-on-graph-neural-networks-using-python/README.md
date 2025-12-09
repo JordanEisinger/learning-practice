@@ -1,0 +1,1 @@
+Link to book GitHub repository: https://github.com/PacktPublishing/Hands-On-Graph-Neural-Networks-Using-Python
